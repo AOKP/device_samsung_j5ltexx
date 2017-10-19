@@ -9,6 +9,6 @@
     "remote": "github",
     "repository": "MAD-Team/proprietary_vendor_samsung_j5ltexx",
     "target_path": "vendor/samsung/j5ltexx",
-    "branch": "viper-n"
+    "branch": "lineage-14.1"
   }
 ]
