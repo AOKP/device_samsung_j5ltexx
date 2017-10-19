@@ -1,13 +1,13 @@
 [
   {
     "remote": "github",
-    "repository": "EsromG5/android_device_samsung_j5-common",
+    "repository": "MAD-Team/android_device_samsung_j5-common",
     "target_path": "device/samsung/j5-common",
     "branch": "viper-n"
   },
   {
     "remote": "github",
-    "repository": "EsromG5/proprietary_vendor_samsung_j5ltexx",
+    "repository": "MAD-Team/proprietary_vendor_samsung_j5ltexx",
     "target_path": "vendor/samsung/j5ltexx",
     "branch": "viper-n"
   }
